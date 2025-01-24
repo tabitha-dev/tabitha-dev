@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Tabitha!
 
-<!--
-**tabitha-dev/tabitha-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&width=435&lines=Junior+Full-Stack+Developer;Data+Driven+Problem+Solver;Passionate+about+AI+%26+ML!)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I’m a developer blending **creativity** and **data** to craft impactful, user-friendly applications. Currently diving deep into **AI** and **API technologies**.  
+🌟 *"Striving to merge innovation with practicality!"*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Tech & Tools
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tabitha-dev&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tabitha-dev&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+- 🌐 **Portfolio:** [code.tabitha.dev](https://code.tabitha.dev/)  
+- 💼 **LinkedIn:** [linkedin.com/in/tabitha-dev](https://linkedin.com/in/tabitha-dev)  
+- 📧 **Email:** [tabitha@ieee.org](mailto:tabitha@ieee.org)
