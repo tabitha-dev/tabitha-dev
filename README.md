@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tabitha!
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&width=435&lines=Junior+Full-Stack+Developer;Data+Driven+Problem+Solver;Passionate+about+AI+%26+ML!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&width=435&lines=Full-Stack+Developer;Data+Driven+Problem+Solver;Passionate+about+AI+%26+ML!)
 
 ## 🚀 About Me
 I’m a ** Full-Stack Developer** blending **creativity** and **data** to craft impactful, user-friendly applications. Having transitioned from a background in **data analysis**, I now focus on building **interactive**, **scalable**, and **data-driven solutions**.  
