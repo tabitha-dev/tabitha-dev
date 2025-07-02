@@ -37,25 +37,33 @@ Currently diving deep into **AI**, **API technologies**, and **machine learning*
 ---
 
 ## 📌 Featured Projects
-### 🌌 **[3D Solar System Simulation](https://github.com/tabitha-dev/Solar-System-in-three-js)**
-A **3D simulation of planetary orbits** using **Three.js**, complete with realistic textures and interactive controls for an immersive user experience.  
-**Skills:** JavaScript, Three.js, 3D Modeling  
 
-### 🛰️ **[Space Weather Dashboard](https://github.com/tabitha-dev/tabitha.dev/tree/main/code/Nasa-Space-Weather-Database-Of-Notifications)**
-An **interactive dashboard** showcasing real-time and historical data on solar flares and geomagnetic storms using **NASA's API**.  
-**Skills:** API Integration, Data Visualization, Full-Stack Development  
+### 🎦 **[Dashcam Viewer](https://github.com/tabitha-dev/Dashcam_Viewer)**
+A **fully offline dashcam player** with dual-camera support and calendar-based browsing. Upload dashcam footage, view front and rear feeds side by side, and manage everything locally in your browser.  
+**Live Demo:** [tabitha-dev.github.io/Dashcam_Viewer](https://tabitha-dev.github.io/Dashcam_Viewer)  
+**Skills:** JavaScript, IndexedDB, Tailwind CSS, Offline Storage  
 
-### 📝 **[Vue.js To-Do List](https://github.com/tabitha-dev/tabitha.dev/tree/main/code/ToDo-2)**
-A **responsive task management app** designed to help users efficiently organize their day, featuring local storage persistence and clean UI design.  
-**Skills:** Vue.js, JavaScript, Frontend Development  
+### 🧂 **[Pantry Pal](https://github.com/tabitha-dev/Pantry_Pal)**
+A **smart pantry manager** to track inventory, generate recipes based on available ingredients, and auto-build shopping lists with full offline support.  
+**Live Demo:** [tabitha-dev.github.io/Pantry_Pal](https://tabitha-dev.github.io/Pantry_Pal)  
+**Skills:** React (UMD), IndexedDB, Tailwind CSS, Chart.js, API Integration  
 
-### 🎨 **[3D Resume Cube](https://github.com/tabitha-dev/tabitha.dev/tree/main/code/resume-cube)**
-An **interactive 3D cube** creatively showcasing my resume, merging personal branding with web innovation.  
-**Skills:** JavaScript (Three.js), WebGL  
+### 🏡 **[Family Hub](https://github.com/tabitha-dev/Family_Hub)**
+A **local-first dashboard** for organizing family life including meal plans, chores, events, and grocery lists with complete privacy and no accounts required.  
+**Live Demo:** [tabitha-dev.github.io/Family_Hub](https://tabitha-dev.github.io/Family_Hub)  
+**Skills:** JavaScript, Tailwind CSS, LocalStorage, Offline-First Design  
+
+### 🌍 **[Climate Intelligence Hub](https://github.com/tabitha-dev/Climate_Intelligence_Hub)**
+A **climate awareness dashboard** that visualizes air quality data, CO₂ trends, and global climate news using public APIs with an educational and data-driven focus.  
+**Live Demo:** [tabitha-dev.github.io/Climate_Intelligence_Hub](https://tabitha-dev.github.io/Climate_Intelligence_Hub)  
+**Skills:** JavaScript, HTML5/CSS3, Chart.js, API Aggregation   
+
+
 
 For more of my projects, visit my **[Portfolio](https://code.tabitha.dev/)**.
 
 ---
+
 
 ## 🎯 Goals
 - Deepen my understanding of **AI** and **machine learning**.  
