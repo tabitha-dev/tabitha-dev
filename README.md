@@ -58,7 +58,15 @@ A **climate awareness dashboard** that visualizes air quality data, CO₂ trends
 **Live Demo:** [tabitha-dev.github.io/Climate_Intelligence_Hub](https://tabitha-dev.github.io/Climate_Intelligence_Hub)  
 **Skills:** JavaScript, HTML5/CSS3, Chart.js, API Aggregation   
 
+### 🏥 **[Medical Practice Dashboard](https://github.com/tabitha-dev/Medical-Practice-Dashboard)**
+A **simulated medical practice management system** for operations, patient data, appointments, and analytics. It provides a comprehensive overview of patient management, appointment scheduling, billing, and system configurations within an intuitive and responsive UI.
+**Live Demo:** [tabitha-dev.github.io/Medical-Practice-Dashboard](https://tabitha-dev.github.io/Medical-Practice-Dashboard/)
+**Skills:** HTML5, Tailwind CSS, JavaScript, Client-Side Data Simulation
 
+### 📈 **[Healthcare RCM Analytics Platform](https://github.com/tabitha-dev/RCM-Dashboard-Analytics)**
+A **simulated Revenue Cycle Management (RCM) dashboard** for healthcare providers to analyze and optimize financial performance. It tracks key KPIs, performs trend analysis, and manages patient accounts with a focus on comprehensive reporting.
+**Live Demo:** [tabitha-dev.github.io/RCM-Dashboard-Analytics](https://tabitha-dev.github.io/RCM-Dashboard-Analytics/)
+**Skills:** HTML5, Tailwind CSS, JavaScript, Data Visualization, Client-Side Data Simulation
 
 For more of my projects, visit my **[Portfolio](https://code.tabitha.dev/)**.
 
