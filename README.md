@@ -39,36 +39,42 @@ Currently diving deep into **AI**, **API technologies**, and **machine learning*
 ## 📌 Featured Projects
 
 ### 🎦 **[Dashcam Viewer](https://github.com/tabitha-dev/Dashcam_Viewer)**
-A **fully offline dashcam player** with dual-camera support and calendar-based browsing. Upload dashcam footage, view front and rear feeds side by side, and manage everything locally in your browser.  
-**Live Demo:** [tabitha-dev.github.io/Dashcam_Viewer](https://tabitha-dev.github.io/Dashcam_Viewer)  
-**Skills:** JavaScript, IndexedDB, Tailwind CSS, Offline Storage  
+A fully offline dashcam player with dual camera support and calendar based browsing. Upload dashcam footage view front and rear feeds side by side and manage everything locally.  
+**Live Demo:** https://tabitha-dev.github.io/Dashcam_Viewer  
+**Skills:** JavaScript IndexedDB Tailwind CSS Offline Storage  
 
 ### 🧂 **[Pantry Pal](https://github.com/tabitha-dev/Pantry_Pal)**
-A **smart pantry manager** to track inventory, generate recipes based on available ingredients, and auto-build shopping lists with full offline support.  
-**Live Demo:** [tabitha-dev.github.io/Pantry_Pal](https://tabitha-dev.github.io/Pantry_Pal)  
-**Skills:** React (UMD), IndexedDB, Tailwind CSS, Chart.js, API Integration  
+A smart pantry manager that tracks inventory generates recipes based on available ingredients and auto builds shopping lists with full offline support.  
+**Live Demo:** https://tabitha-dev.github.io/Pantry_Pal  
+**Skills:** React UMD IndexedDB Tailwind CSS Chart.js API Integration  
 
 ### 🏡 **[Family Hub](https://github.com/tabitha-dev/Family_Hub)**
-A **local-first dashboard** for organizing family life including meal plans, chores, events, and grocery lists with complete privacy and no accounts required.  
-**Live Demo:** [tabitha-dev.github.io/Family_Hub](https://tabitha-dev.github.io/Family_Hub)  
-**Skills:** JavaScript, Tailwind CSS, LocalStorage, Offline-First Design  
+A local first dashboard for organizing family life including meal plans chores events and grocery lists with complete privacy.  
+**Live Demo:** https://tabitha-dev.github.io/Family_Hub  
+**Skills:** JavaScript Tailwind CSS LocalStorage Offline First Design  
+
+### 🏠 **[Lumina Family OS](https://github.com/tabitha-dev/Lumina-Family-OS)**
+A modern family operating system that combines calendars routines chores meals wellness shopping lists sleep mode and a star based family reward bank into one unified experience. Everything runs directly on your device through Local Storage for complete privacy.  
+**Live Demo:** https://tabitha-dev.github.io/Lumina-Family-OS  
+**Skills:** JavaScript Tailwind CSS LocalStorage UI Architecture API Integration  
 
 ### 🌍 **[Climate Intelligence Hub](https://github.com/tabitha-dev/Climate_Intelligence_Hub)**
-A **climate awareness dashboard** that visualizes air quality data, CO₂ trends, and global climate news using public APIs with an educational and data-driven focus.  
-**Live Demo:** [tabitha-dev.github.io/Climate_Intelligence_Hub](https://tabitha-dev.github.io/Climate_Intelligence_Hub)  
-**Skills:** JavaScript, HTML5/CSS3, Chart.js, API Aggregation   
+A climate awareness dashboard that visualizes air quality CO2 trends and global climate news using public APIs.  
+**Live Demo:** https://tabitha-dev.github.io/Climate_Intelligence_Hub  
+**Skills:** JavaScript HTML5 CSS3 Chart.js API Aggregation  
 
 ### 🏥 **[Medical Practice Dashboard](https://github.com/tabitha-dev/Medical-Practice-Dashboard)**
-A **simulated medical practice management system** for operations, patient data, appointments, and analytics. It provides a comprehensive overview of patient management, appointment scheduling, billing, and system configurations within an intuitive and responsive UI.
-**Live Demo:** [tabitha-dev.github.io/Medical-Practice-Dashboard](https://tabitha-dev.github.io/Medical-Practice-Dashboard/)
-**Skills:** HTML5, Tailwind CSS, JavaScript, Client-Side Data Simulation
+A simulated medical practice management system for operations patient data appointments billing and analytics with a clean and responsive UI.  
+**Live Demo:** https://tabitha-dev.github.io/Medical-Practice-Dashboard  
+**Skills:** HTML5 Tailwind CSS JavaScript Client Side Simulation  
 
 ### 📈 **[Healthcare RCM Analytics Platform](https://github.com/tabitha-dev/RCM-Dashboard-Analytics)**
-A **simulated Revenue Cycle Management (RCM) dashboard** for healthcare providers to analyze and optimize financial performance. It tracks key KPIs, performs trend analysis, and manages patient accounts with a focus on comprehensive reporting.
-**Live Demo:** [tabitha-dev.github.io/RCM-Dashboard-Analytics](https://tabitha-dev.github.io/RCM-Dashboard-Analytics/)
-**Skills:** HTML5, Tailwind CSS, JavaScript, Data Visualization, Client-Side Data Simulation
+A simulated Revenue Cycle Management dashboard for healthcare providers focusing on financial KPIs trend insights and account management.  
+**Live Demo:** https://tabitha-dev.github.io/RCM-Dashboard-Analytics  
+**Skills:** HTML5 Tailwind CSS JavaScript Data Visualization Client Side Simulation
 
-For more of my projects, visit my **[Portfolio](https://code.tabitha.dev/)**.
+For more of my projects visit my **Portfolio** at https://code.tabitha.dev
+
 
 ---
 
