@@ -38,6 +38,11 @@ Currently diving deep into **AI**, **API technologies**, and **machine learning*
 
 ## 📌 Featured Projects
 
+### 🚀 **[Engineering Case Studies Hub](https://github.com/tabitha-dev/Engineering-Case-Studies-Hub)**
+A comprehensive engineering portfolio built with React and Tailwind CSS. It includes category filtering, dark mode, and detailed project modals that present case studies in AI, RCM, and full stack development.  
+**Live Demo:** https://tabitha-dev.github.io/Engineering-Case-Studies-Hub/  
+**Skills:** React Tailwind CSS Portfolio Design Technical Writing System Architecture
+
 ### 🎦 **[Dashcam Viewer](https://github.com/tabitha-dev/Dashcam_Viewer)**
 A fully offline dashcam player with dual camera support and calendar based browsing. Upload dashcam footage view front and rear feeds side by side and manage everything locally.  
 **Live Demo:** https://tabitha-dev.github.io/Dashcam_Viewer  
