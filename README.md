@@ -73,6 +73,11 @@ A simulated Revenue Cycle Management dashboard for healthcare providers focusing
 **Live Demo:** https://tabitha-dev.github.io/RCM-Dashboard-Analytics  
 **Skills:** HTML5 Tailwind CSS JavaScript Data Visualization Client Side Simulation
 
+### 🏥 **[NexGen RCM Intelligence](https://github.com/tabitha-dev/Automated-Eligibility-Checker-Bot-)**
+A next generation AI powered Revenue Cycle Management simulation featuring real time eligibility checks, AI clinical coding, Voice AI payer calls, denial analytics, and full enterprise style UI.
+**Live Demo:** https://tabitha-dev.github.io/Automated-Eligibility-Checker-Bot-/  
+**Skills:** JavaScript Tailwind CSS Healthcare EDI Simulation AI Logic Python Selenium
+
 For more of my projects visit my **Portfolio** at https://code.tabitha.dev
 
 
