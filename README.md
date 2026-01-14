@@ -3,7 +3,17 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&width=435&lines=Full-Stack+Developer;Data+Driven+Problem+Solver;Passionate+about+AI+%26+ML!)
 
 ## 🚀 About Me
-Hi! I’m Tabitha, a frontend-focused full-stack developer blending creative UI with real-world API integrations. I'm currently growing my backend skills in Node.js and SQL, and I love building tools that inform, educate, and improve everyday workflows.  
+I work at the intersection of healthcare operations, data quality, and AI systems.
+
+With 8+ years of experience in medical billing and healthcare administration, I currently work as a Healthcare Operations AI Trainer at LinkedIn. I bridge the gap between clinical complexity and technical execution, evaluating AI workflows to ensure accuracy, HIPAA compliance, and operational reliability.
+
+My work focuses on:
+
+AI Quality Assurance: Designing rubrics and performing RLHF to refine model outputs.
+
+Data Validation: Extracting and verifying structured data from unstructured healthcare documents.
+
+Compliance: Ensuring strict adherence to HIPAA, Payer Rules, and PHI/PII redaction standards.
 
 🌟 *"Striving to merge innovation with practicality!"*  
 
