@@ -5,7 +5,7 @@
 ## 🚀 About Me
 I work at the intersection of healthcare operations, data quality, and AI systems.
 
-With 8+ years of experience in medical billing and healthcare administration, I currently work as a Healthcare Operations AI Trainer at LinkedIn. I bridge the gap between clinical complexity and technical execution, evaluating AI workflows to ensure accuracy, HIPAA compliance, and operational reliability.
+With 8+ years of experience in medical billing and healthcare administration, I currently work as a Healthcare Operations AI at LinkedIn. I bridge the gap between clinical complexity and technical execution, evaluating AI workflows to ensure accuracy, HIPAA compliance, and operational reliability.
 
 My work focuses on:
 
