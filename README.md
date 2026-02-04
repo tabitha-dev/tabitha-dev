@@ -5,7 +5,7 @@
 ## 🚀 About Me
 I work at the intersection of healthcare operations, data quality, and AI systems.
 
-With 8+ years of experience in medical billing and healthcare administration, I currently work as a Healthcare Operations AI at LinkedIn. I bridge the gap between clinical complexity and technical execution, evaluating AI workflows to ensure accuracy, HIPAA compliance, and operational reliability.
+With 8+ years of experience in medical billing and healthcare administration, I currently work as a Healthcare Data & AI Quality Engineer. I bridge the gap between clinical complexity and technical execution, evaluating AI workflows to ensure accuracy, HIPAA compliance, and operational reliability.
 
 My work focuses on:
 
@@ -107,8 +107,7 @@ For more of my projects visit my **Portfolio** at https://code.tabitha.dev
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tabitha-dev&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tabitha-dev&layout=compact&theme=radical)  
+
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tabitha-dev&theme=react-dark)
 
 ---
@@ -122,6 +121,5 @@ When I’m not coding, you’ll find me:
 ---
 
 ## 📫 Let’s Connect:
-- 🌐 **Portfolio:** [code.tabitha.dev](https://code.tabitha.dev/)  
 - 💼 **LinkedIn:** [linkedin.com/in/tabitha-dev](https://linkedin.com/in/tabitha-dev)  
 - 📧 **Email:** [tabitha@ieee.org](mailto:tabitha@ieee.org)
