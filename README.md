@@ -93,7 +93,7 @@ A next generation AI powered Revenue Cycle Management simulation featuring real 
 **Live Demo:** https://tabitha-dev.github.io/Automated-Eligibility-Checker-Bot-/  
 **Skills:** JavaScript Tailwind CSS Healthcare EDI Simulation AI Logic Python Selenium
 
-For more of my projects visit my **Portfolio** at https://code.tabitha.dev
+💡 View my complete portfolio at tabitha-dev.github.io/portfolio
 
 
 ---
@@ -122,4 +122,4 @@ When I’m not coding, you’ll find me:
 
 ## 📫 Let’s Connect:
 - 💼 **LinkedIn:** [linkedin.com/in/tabitha-dev](https://linkedin.com/in/tabitha-dev)  
-- 📧 **Email:** [tabitha@ieee.org](mailto:tabitha@ieee.org)
+- 📧 **Email:** [tabitha-dev@outlook.com](tabitha-dev@outlook.com)
