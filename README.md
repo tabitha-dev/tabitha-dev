@@ -3,17 +3,17 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&width=435&lines=Full-Stack+Developer;Data+Driven+Problem+Solver;Passionate+about+AI+%26+ML!)
 
 ## 🚀 About Me
-I work at the intersection of healthcare operations, data quality, and AI systems.
+I work at the intersection of software engineering, healthcare operations, and AI quality assurance.
 
-With 8+ years of experience in medical billing and healthcare administration, I currently work as a Healthcare Data & AI Quality Engineer. I bridge the gap between clinical complexity and technical execution, evaluating AI workflows to ensure accuracy, HIPAA compliance, and operational reliability.
+With 8+ years of experience in healthcare administration and a strong foundation in modern web development, I bridge the gap between clinical complexity and technical execution. Currently working as a Full-Stack & AI Quality Engineer, I build responsive applications, validate structured/unstructured data, and evaluate AI workflows to ensure accuracy, HIPAA compliance, and operational reliability.
 
-My work focuses on:
+My core focus areas:
 
-AI Quality Assurance: Designing rubrics and performing RLHF to refine model outputs.
+🛡️ AI Quality Assurance: Designing rubrics, edge-case detection, and performing RLHF to refine model outputs.
 
-Data Validation: Extracting and verifying structured data from unstructured healthcare documents.
+📊 Data Validation: Extracting and verifying structured data from unstructured healthcare documents.
 
-Compliance: Ensuring strict adherence to HIPAA, Payer Rules, and PHI/PII redaction standards.
+🔒 Compliance & Architecture: Ensuring strict adherence to HIPAA, Payer Rules, and PHI/PII redaction standards while building out scalable full-stack solutions.
 
 🌟 *"Striving to merge innovation with practicality!"*  
 
