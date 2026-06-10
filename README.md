@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # 👋 Hi, I'm Tabitha Khadse
@@ -194,4 +194,4 @@ A fully offline dashcam player with dual-camera playback, calendar-based browsin
 **Building practical software for complex, real-world workflows.**
 
 </div>
-```
+
